@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
-<h3 align="center">A passionate about DSA, and Devlopment</h3>
+<h3 align="center">A passionate  DSA and  Web Development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-kumari708&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-kumari708" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA**
+- 🌱 I’m currently learning **JavaScript, Data Structures & Algorithms**
 
-- 💬 Ask me about **Html, CSS, javaScript,Java, DSA, C, Python**
+- 💬 Ask me about **Html, CSS, JavaScript,Java, DSA, C, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muskan kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan kumari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muskan kumari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan kumari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muskan_dsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muskan_dsa" height="30" width="40" /></a>
 </p>
 

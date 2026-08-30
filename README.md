@@ -24,16 +24,18 @@
 
 - Java
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Python
 - React
+- C
 
 **Tools:**
 
 - Git
 - GitHub
 - VS Code
+- Intellij IDEA
 
 ---
 

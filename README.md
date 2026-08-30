@@ -65,10 +65,28 @@ I love building projects, learning new technologies and solving problems.
 
 ---
 
-## 📚 Currently Learning
+---
 
-```text
-JavaScript     █████████████████░░░
-React          ████████████░░░░░░░
-DSA            █████████████░░░░░░
-Problem Solving ████████████░░░░░░░
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Muskan-Kumari708">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/Muskan-Kumari">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>

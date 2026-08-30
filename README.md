@@ -64,6 +64,19 @@ I love building projects, learning new technologies and solving problems.
 👉 Check out my repositories to explore more projects.
 
 ---
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-Deep%20Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Improving-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white">
+
+</p>
 
 ---
 

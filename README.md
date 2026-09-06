@@ -10,7 +10,7 @@ I love building projects, learning new technologies and solving problems.
   <a href="https://github.com/Muskan-Kumari708">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/Muskan-Kumari">
+  <a href="https://www.linkedin.com/in/Muskan Kumari">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>

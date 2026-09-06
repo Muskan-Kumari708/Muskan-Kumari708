@@ -57,19 +57,7 @@ I love building projects, learning new technologies and solving problems.
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
 
----
 
-## 🚀 My Projects
-
-| Project | Description |
-|--------|-------------|
-| 🌦️ **Weather App** | Weather application using JavaScript and API integration |
-| ✅ **To-Do App** | Simple task management web application |
-| 💻 **JavaScript Projects** | Collection of JavaScript projects and practice work |
-
-👉 Check out my repositories to explore more projects.
-
----
 ## 📚 Currently Learning
 
 <p align="center">
@@ -94,7 +82,7 @@ I love building projects, learning new technologies and solving problems.
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/Muskan-Kumari">
+<a href="https://www.linkedin.com/in/muskan-kumari-a00784414/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 

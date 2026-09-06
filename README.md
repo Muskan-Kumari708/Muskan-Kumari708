@@ -22,7 +22,7 @@ I love building projects, learning new technologies and solving problems.
 ## 🌸 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Interested in Web Development
+- 💻 Interested in Full Stack Development
 - 🌱 Currently learning **JavaScript, React & DSA**
 - 🧠 Improving my problem-solving skills
 - 🚀 Building projects to gain practical experience

@@ -125,10 +125,7 @@ I love building projects, learning new technologies and solving problems.
   <img src="https://img.shields.io/badge/Local_Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
-<p>
-  🔗 Live Demo Coming Soon
-</p>
-
+---
 
 
 ## 🌐 Connect With Me

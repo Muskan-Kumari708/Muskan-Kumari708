@@ -23,7 +23,7 @@ I love building projects, learning new technologies and solving problems.
 
 - 🎓 Computer Science Engineering Student
 - 💻 Interested in Full Stack Development
-- 🌱 Currently learning **JavaScript, React & DSA**
+- 🌱 Currently learning **React & Node.js, DSA**
 - 🧠 Improving my problem-solving skills
 - 🚀 Building projects to gain practical experience
 - 🎯 Goal: Become a skilled Software Engineer and a good problem solver

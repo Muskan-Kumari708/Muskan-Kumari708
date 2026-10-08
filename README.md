@@ -88,6 +88,43 @@ I love building projects, learning new technologies and solving problems.
 
 ---
 
+<h2>🚀 My Projects</h2>
+
+<h3>🛍️ 1. Zaptro - E-commerce Website</h3>
+
+<p>
+  A React-based e-commerce website with a modern user interface.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p>
+  🔗 <a href="https://zaptro-react-ecommerce.vercel.app/">Live Demo</a>
+</p>
+
+<hr>
+
+<h3>✅ 2. Task Manager</h3>
+
+<p>
+  A React-based task management application that helps users
+  organize daily tasks. It uses Redux Toolkit for state management
+  and Local Storage to save tasks across page refreshes.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Local_Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">

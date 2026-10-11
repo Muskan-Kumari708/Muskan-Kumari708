@@ -87,45 +87,7 @@ I love building projects, learning new technologies and solving problems.
 
 </p>
 
----
 
-<h2>🚀 My Projects</h2>
-
-<h3>🛍️ 1. Zaptro - E-commerce Website</h3>
-
-<p>
-  A React-based e-commerce website with a modern user interface
-  and secure user authentication using Clerk.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-</p>
-
-<p>
-  🔗 <a href="https://zaptro-react-ecommerce.vercel.app/">Live Demo</a>
-</p>
-
-<hr>
-
-<h3>✅ 2. Task Manager</h3>
-
-<p>
-  A React-based task management application to organize daily tasks.
-  It uses Redux Toolkit for state management and Local Storage
-  to persist tasks across page refreshes.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Local_Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</p>
 
 ---
 

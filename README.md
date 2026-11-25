@@ -104,13 +104,5 @@ I love building projects, learning new technologies and solving problems.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
-  <a href="https://muskan-flix.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/Muskan-Kumari708">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/muskan-kumari-a00784414/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+  
+

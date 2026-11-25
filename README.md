@@ -71,15 +71,10 @@ I love building projects, learning new technologies and solving problems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
-  <img src="https://img.shields.io/badge/Trae-FF4D4F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white">
-  <img src="https://img.shields.io/badge/Bolt-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white">
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white">
 </p>
 
 ---
@@ -99,6 +94,16 @@ I love building projects, learning new technologies and solving problems.
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://muskan-flix.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/Muskan-Kumari708">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-kumari-a00784414/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
   <a href="https://muskan-flix.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white">
   </a>

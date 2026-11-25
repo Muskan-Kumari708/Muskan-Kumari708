@@ -7,6 +7,9 @@
 I love building projects, learning new technologies and solving problems.
 
 <p>
+  <a href="https://muskan-flix.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://github.com/Muskan-Kumari708">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
@@ -26,6 +29,7 @@ I love building projects, learning new technologies and solving problems.
 - 🌱 Currently learning **React & Node.js, DSA**
 - 🧠 Improving my problem-solving skills
 - 🚀 Building projects to gain practical experience
+- 🌐 Portfolio: [muskan-flix.vercel.app](https://muskan-flix.vercel.app/)
 - 🎯 Goal: Become a skilled Software Engineer and a good problem solver
 
 ---
@@ -42,23 +46,40 @@ I love building projects, learning new technologies and solving problems.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 
 ### 🔧 Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+### 🤖 AI Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Trae-FF4D4F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white">
+  <img src="https://img.shields.io/badge/Bolt-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
 ---
@@ -66,44 +87,25 @@ I love building projects, learning new technologies and solving problems.
 ## 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white">
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Improving-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Improving-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white">
 </p>
 
-
-
 ---
-
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Muskan-Kumari708">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/muskan-kumari-a00784414/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
+  <a href="https://muskan-flix.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/Muskan-Kumari708">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-kumari-a00784414/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile! ✨
-
-⭐ Feel free to explore my repositories and projects.
-
-</div>
